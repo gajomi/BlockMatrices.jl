@@ -37,4 +37,6 @@ The blocks themselves can be block matrix types. It is also possible to mix nume
 
 ##Linear algebra methods
 
+Show different block structures, include sparse blocks of dense matrices, which generalizes sparse matrices to blocks
+
 [![Build Status](https://travis-ci.org/gajomi/BlockMatrices.jl.svg?branch=master)](https://travis-ci.org/gajomi/BlockMatrices.jl)
